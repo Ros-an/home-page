@@ -1,0 +1,6 @@
+.content-wrapper {
+  margin-top: 4.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,24 @@
+{
+    "name": "features available",
+    "data": [
+        {
+            "id": 1,
+            "title": "Customize your Linktree",
+            "info": "Make your Linktree pop. Embody your brand through custom colors, fonts and images.",
+            "picture": "https://images.ctfassets.net/lbsm39fugycf/4ehEuMFz2MN0whocgtEdjH/cf15be6ed10e4b27ce95887e55b1b8b9/linktree-features-customization.png?w=310&h=310&q=75&fm=webp"
+        },
+        {
+            "id": 2,
+            "title": "Analytics and Insights",
+            "info": "Gain valuable insight into your traffic and discover which content is performing with your audience.",
+            "picture": "https://images.ctfassets.net/lbsm39fugycf/2PeKYxaoIbWPIcnUagYSDS/4c194674cd1a0a9abc62d26371a768a9/linktree-features-analytics.png?w=310&h=310&q=75&fm=webp"
+        },
+        {
+            "id": 3,
+            "title": "Powerful Third-Party Integrations",
+            "info": "Collect email subscribers, connect with third-party analytics and remarket to your audience.",
+            "picture": "https://images.ctfassets.net/lbsm39fugycf/4ETNPMtKJPE37QSt5kfgm9/e18948bbc0d7fb4ce1a7c81b6e07d4fa/linktree-features-integrations.png?w=310&h=310&q=75&fm=webp"
+        }
+
+    ]
+}

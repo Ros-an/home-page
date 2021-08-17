@@ -1,0 +1,84 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  background: var(--color-white);
+  width: 100%;
+  z-index: var(--z-index-five);
+}
+.navbar__body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4.5rem;
+  padding: 0 1.5rem;
+}
+
+.navbar__left-side,
+.navbar__right-side,
+.navbar--link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.navbar--logo {
+  margin-right: 2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.navbar--logo img {
+  height: 1.25rem;
+  width: 1.25rem;
+  margin-right: 0.15rem;
+}
+.navbar--logo p {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.navbar--link p {
+  margin-right: 3rem;
+  font-weight: 400;
+  line-height: 1.6;
+  cursor: pointer;
+  height: 100%;
+}
+.navbar--link p span {
+  height: 97%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-white);
+}
+.navbar--link p:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(40, 191, 123),
+    rgb(46, 211, 186) 20%,
+    rgb(68, 194, 215) 40%,
+    rgb(90, 162, 220) 60%,
+    rgb(112, 141, 224) 80%,
+    rgb(138, 134, 229)
+  );
+  transition: all 0.3s ease-in;
+}
+
+.navbar--signup-free button {
+  height: 32px;
+  padding: 0 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: rgb(38, 50, 56);
+  background: rgb(57, 224, 155);
+  border: none;
+  font-size: 0.875rem;
+  font-family: inherit;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+.navbar--signup-free button:hover {
+  filter: brightness(80%);
+}

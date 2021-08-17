@@ -1,0 +1,59 @@
+.feature {
+  padding: 4vw 4rem 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 64px 3.33%;
+}
+
+.feature article {
+  flex: 1 1 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0px 24px;
+}
+.feature article img {
+  margin-bottom: 2rem;
+}
+
+.feature article h3 {
+  padding-bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.25;
+  font-weight: normal;
+  min-height: calc(5rem);
+}
+.feature article p {
+  padding-bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+.see-all-feature {
+  padding: 4vw 4rem;
+  display: flex;
+  justify-content: center;
+}
+.see-all-feature button {
+  height: 3rem;
+  padding: 0 1.5rem;
+  border-radius: 0.75rem;
+  cursor: pointer;
+  width: auto;
+  color: rgb(117, 81, 233);
+  background: transparent;
+  border: 1px solid rgb(117, 81, 233);
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.see-all-feature button:hover {
+  background: rgb(117, 81, 233);
+  color: white;
+}

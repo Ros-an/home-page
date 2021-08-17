@@ -1,0 +1,46 @@
+{
+    "title": "features data",
+    "listOfFeat": [
+        {
+            "id": 1,
+            "title": "Use it anywhere",
+            "detail": "Take your Linktree wherever your audience is, to help them to discover all your important content.",
+            "videoKey": "//videos.ctfassets.net/lbsm39fugycf/1i6LctbRMzKsEmWCdbZWe8/3aecc0e1dd43fa2e291e9d6778c822ee/link_to_anywhere.mp4",
+            "src": "//videos.ctfassets.net/lbsm39fugycf/1i6LctbRMzKsEmWCdbZWe8/3aecc0e1dd43fa2e291e9d6778c822ee/link_to_anywhere.mp4"
+            
+        },
+        {
+            "id": 2,
+            "title": "Link to everywhere",
+            "detail": "Linktree is the launchpad to your latest video, article, recipe, tour, store, website, social post - everywhere you are online.",
+            "videoKey": "//videos.ctfassets.net/lbsm39fugycf/7oDgvpqZimd2N3qRJ3FOmx/be9603d765dc8bedd0d57ae02dc50579/linktree-for-tiktok-hero-2.mp4",
+            "src": "//videos.ctfassets.net/lbsm39fugycf/7oDgvpqZimd2N3qRJ3FOmx/be9603d765dc8bedd0d57ae02dc50579/linktree-for-tiktok-hero-2.mp4"
+            
+        },
+        {
+            "id": 3,
+            "title": "Collect payments",
+            "detail": "From tips for your content, to donations for your projects, let your fans & followers support you in monetizing your passions.",
+            "videoKey": "//videos.ctfassets.net/lbsm39fugycf/2nDAujY8vMUV9YqWibCh4g/440bce7b1ba4bdf2171f7f6d12460238/Linktree-CommerceLinks-600x600-V02.mp4",
+            "src": "//videos.ctfassets.net/lbsm39fugycf/2nDAujY8vMUV9YqWibCh4g/440bce7b1ba4bdf2171f7f6d12460238/Linktree-CommerceLinks-600x600-V02.mp4"
+            
+        },
+        {
+            "id": 4,
+            "title": "Easily managed",
+            "detail": "Creating a Linktree takes seconds. Use our simple drag-and-drop editor to effortlessly manage your content.",
+            "videoKey": "//videos.ctfassets.net/lbsm39fugycf/4jcMGgBbI0ZkJxn9Wqy3DK/61f26c5d0e317799c58e48cd484ce1e6/linktree-causes-landing-page-hero-1.mp4",
+            "src": "//videos.ctfassets.net/lbsm39fugycf/4jcMGgBbI0ZkJxn9Wqy3DK/61f26c5d0e317799c58e48cd484ce1e6/linktree-causes-landing-page-hero-1.mp4"
+            
+        },
+        
+        {
+            "id": 5,
+            "title": "Safe, trusted, private",
+            "detail": "Privacy is non-negotiable. Linktree doesn’t track any personal data on your visitors, so your Linktree remains your place on the internet.",
+            "videoKey": "//videos.ctfassets.net/lbsm39fugycf/5Z88UNk5vAFjxKxSePOS1g/b086910440ca7417d35674734b6ff360/website_security_8s.mp4",
+            "src": "//videos.ctfassets.net/lbsm39fugycf/5Z88UNk5vAFjxKxSePOS1g/b086910440ca7417d35674734b6ff360/website_security_8s.mp4"
+            
+        }
+    ]
+}

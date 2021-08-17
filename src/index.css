@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500;600;700&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --z-index-one: 1;
+  --z-index-two: 2;
+  --z-index-three: 3;
+  --z-index-four: 4;
+  --z-index-five: 5;
+  --color-white: white;
+  --text-color: rgb(38, 50, 56);
+}
+body {
+  margin: 0;
+  font-family: "Karla", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,39 @@
+.left-to-right,
+.right-to-left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5vw 4rem;
+  min-height: 550px;
+}
+
+.left-to-right .video-section,
+.right-to-left .video-section {
+  flex: 0.5;
+}
+.left-to-right .video-section video,
+.right-to-left .video-section video {
+  height: 100%;
+  width: 100%;
+}
+.left-to-right .text-section {
+  flex: 0.5;
+  padding: 0 5.5% 0 11.11%;
+}
+.right-to-left .text-section {
+  flex: 0.5;
+  padding: 0 11.11% 0 5.5%;
+}
+.left-to-right .text-section h2,
+.right-to-left .text-section h2 {
+  margin-bottom: 0.5rem;
+  font-size: 3rem;
+  line-height: 1.17;
+  letter-spacing: calc(-0.96px);
+  font-weight: normal;
+}
+.left-to-right .text-section p,
+.right-to-left .text-section p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+}

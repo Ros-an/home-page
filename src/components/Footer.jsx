@@ -32,7 +32,7 @@ function Footer() {
                             <div key={item.id}>
                                 <p>{item.heading}</p>
                                 <ul>
-                                    {item.list.map(elem => <li>{elem}</li>)}
+                                    {item.list.map((elem, index) => <li key={index}>{elem}</li>)}
                                 </ul>
                             </div>
                         )
